@@ -15,9 +15,16 @@ Basically, this is a super-advanced but easy-to-use tool to automate your live s
 
 Want to try the bot right now? Copy one of these free test keys and paste it when you launch the app:
 
-* PROMO-2026-TEST1
-* STREAMBOT-FREE-999
-* VIP-CLIENT-DEMO
+* STREAMBOT-VIP-001
+* STREAMBOT-VIP-002
+* STREAMBOT-VIP-003
+* STREAMBOT-VIP-004
+* STREAMBOT-VIP-005
+* STREAMBOT-VIP-006
+* STREAMBOT-VIP-007
+* STREAMBOT-VIP-008
+* STREAMBOT-VIP-009
+* STREAMBOT-VIP-010
 
 
 ---
