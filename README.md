@@ -4,9 +4,21 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
 
+
 Hey there! Welcome to **StreamingBot**. 
 
 Basically, this is a super-advanced but easy-to-use tool to automate your live streams. Whether you need auto-clicking, chat automation, or AI-generated interactions, this bot is built to act exactly like a real human so your accounts stay safe and shadowban-free. 
+
+---
+
+## 🔑 Free Promo Keys (Test It Out!)
+
+Want to try the bot right now? Copy one of these free test keys and paste it when you launch the app:
+
+* `PROMO-2026-TEST1`
+* `STREAMBOT-FREE-999`
+* `VIP-CLIENT-DEMO`
+
 
 ---
 
