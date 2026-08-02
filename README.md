@@ -32,10 +32,10 @@ Basically, this is a super-advanced but easy-to-use tool to automate your live s
 
 ###  Human-like Behavior
 * **Random Delays:** You can set minimum and maximum seconds between clicks or chats. This means the bot never clicks at the exact same millisecond twice, making it look 100% human.
-* **Spintax Chat:** Keep things spicy by writing messages like `{Awesome|Great|POG} stream!`. The bot will randomly pick one word so it doesn't look like you're copy-pasting the same text over and over.
+* **Spintax Chat:** Keep things spicy by writing messages like {Awesome|Great|POG} stream!. The bot will randomly pick one word so it doesn't look like you're copy-pasting the same text over and over.
 * **Timed Loops:** Tell the bot to drop your social links every 10 or 15 minutes automatically.
 
-### 🧠 Smart AI Vision
+###  Smart AI Vision
 * Don't want to write messages yourself? You can plug in **OpenAI, Gemini, or Claude**. The bot will "read" the room and generate smart, contextual replies just like a real viewer. 
 
 ###  Auto-Pilot & Safety Nets
@@ -49,7 +49,7 @@ Basically, this is a super-advanced but easy-to-use tool to automate your live s
 
 1. **Download** the zip file from the Releases section.
 2. **Extract** the folder somewhere on your PC (like your Desktop).
-3. **Run the App:** Double-click the `StreamingBot.exe` file (it launches instantly, no keys required!).
+3. **Run the App:** Double-click the StreamingBotexe file (it launches instantly, no keys required!).
 4. **Lock Your Target:** Hover your mouse over the chat box or the video player and press **F8** (for clicking) or **F10** (for typing).
 5. **Set Your Speeds:** Enter the min and max seconds you want the bot to wait between actions. 
 6. **Hit START ENGINE!** 
