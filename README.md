@@ -54,7 +54,7 @@ Basically, this is a super-advanced but easy-to-use tool to automate your live s
 5. **Set Your Speeds:** Enter the min and max seconds you want the bot to wait between actions. 
 6. **Hit START ENGINE!** 
 
-> **💡 Pro Tip about Proxies:** Please, do yourself a favor and **do not use free proxies from the internet**. They are used by thousands of people at the same time, they are super slow, and they disconnect every 5 minutes. Buy cheap *Private IPv4 Proxies* online for a couple of bucks. They will save you massive headaches.
+> ** Pro Tip about Proxies:** Please, do yourself a favor and **do not use free proxies from the internet**. They are used by thousands of people at the same time, they are super slow, and they disconnect every 5 minutes. Buy cheap *Private IPv4 Proxies* online for a couple of bucks. They will save you massive headaches.
 
 ---
 
