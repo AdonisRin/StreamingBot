@@ -1,12 +1,12 @@
-<img width="1906" height="1013" alt="APP3" src="https://github.com/user-attachments/assets/07ed2efc-7b24-476f-ad61-aead809309ca" />
-<img width="1924" height="1030" alt="APP2" src="https://github.com/user-attachments/assets/0eed305c-692f-465f-9626-f1d19fd08b03" />
-<img width="1916" height="1017" alt="APP" src="https://github.com/user-attachments/assets/f9590c9f-28cf-437c-aaa1-f905dfb59f58" />
-#  StreamingBot for Windows 7/8/10/11
+# StreamingBot for Windows 7/8/10/11
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![License](https://img.shields.io/badge/License-Proprietary-red.svg)
+![Price](https://img.shields.io/badge/Price-100%25%20Free-brightgreen.svg)
 
+![APP Main](https://github.com/user-attachments/assets/f9590c9f-28cf-437c-aaa1-f905dfb59f58)
+![APP Pro Tools](https://github.com/user-attachments/assets/0eed305c-692f-465f-9626-f1d19fd08b03)
+![APP AI Vision](https://github.com/user-attachments/assets/07ed2efc-7b24-476f-ad61-aead809309ca)
 
 Hey there! Welcome to **StreamingBot**. 
 
