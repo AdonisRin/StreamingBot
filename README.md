@@ -14,24 +14,6 @@ Basically, this is a super-advanced but easy-to-use tool to automate your live s
 
 ---
 
-## 🔑 Free Promo Keys (Test It Out!)
-
-Want to try the bot right now? Copy one of these free test keys and paste it when you launch the app:
-
-* STREAMBOT-VIP-001
-* STREAMBOT-VIP-002
-* STREAMBOT-VIP-003
-* STREAMBOT-VIP-004
-* STREAMBOT-VIP-005
-* STREAMBOT-VIP-006
-* STREAMBOT-VIP-007
-* STREAMBOT-VIP-008
-* STREAMBOT-VIP-009
-* STREAMBOT-VIP-010
-
-
----
-
 ##  The Legal Stuff (Disclaimer)
 
 > **PLEASE READ:** This software is built for **educational purposes, personal stress-testing, and automating your own platforms.** Let's be real: if you use this to spam other people or break the Terms of Service of platforms like Twitch, YouTube, or TikTok, that is entirely on you. The developer takes zero responsibility for any banned accounts or lost data. Use it smartly and at your own risk!
@@ -53,7 +35,7 @@ Want to try the bot right now? Copy one of these free test keys and paste it whe
 * **Spintax Chat:** Keep things spicy by writing messages like `{Awesome|Great|POG} stream!`. The bot will randomly pick one word so it doesn't look like you're copy-pasting the same text over and over.
 * **Timed Loops:** Tell the bot to drop your social links every 10 or 15 minutes automatically.
 
-###  Smart AI Vision
+### 🧠 Smart AI Vision
 * Don't want to write messages yourself? You can plug in **OpenAI, Gemini, or Claude**. The bot will "read" the room and generate smart, contextual replies just like a real viewer. 
 
 ###  Auto-Pilot & Safety Nets
@@ -63,41 +45,24 @@ Want to try the bot right now? Copy one of these free test keys and paste it whe
 
 ---
 
-##  How to Install
+##  How to Install & Use
 
-1. **Download** the zip file you received after purchase.
+1. **Download** the zip file from the Releases section.
 2. **Extract** the folder somewhere on your PC (like your Desktop).
-3. **Run the App:** Double-click the `StreamingBot.exe` file.
-4. **Activate:** On the first launch, paste in your private **License Key** to unlock the software. 
-
----
-
-##  Quick Start Guide (Plug & Play)
-
-1. **Lock Your Target:** Hover your mouse over the chat box or the video player and press **F8** (for clicking) or **F10** (for typing).
-2. **Set Your Speeds:** Enter the min and max seconds you want the bot to wait between actions. 
-3. **Hide Your IP (Proxies):** Go to the *PRO TOOLS* tab, paste a proxy (like `132.111.11.35:8080`), pick the type (HTTP/SOCKS5), and click **LAUNCH**. 
-4. **Add Chat Messages:** Type what you want the bot to say in the main box.
-5. **Hit START ENGINE!** 
+3. **Run the App:** Double-click the `StreamingBot.exe` file (it launches instantly, no keys required!).
+4. **Lock Your Target:** Hover your mouse over the chat box or the video player and press **F8** (for clicking) or **F10** (for typing).
+5. **Set Your Speeds:** Enter the min and max seconds you want the bot to wait between actions. 
+6. **Hit START ENGINE!** 
 
 > **💡 Pro Tip about Proxies:** Please, do yourself a favor and **do not use free proxies from the internet**. They are used by thousands of people at the same time, they are super slow, and they disconnect every 5 minutes. Buy cheap *Private IPv4 Proxies* online for a couple of bucks. They will save you massive headaches.
 
 ---
 
-##  License & Security
-
-To use this software, you need a valid **License Key**. 
-The system checks your key securely through our online database to make sure it's active. 
-Sharing, leaking, or trying to resell your personal license key will immediately permanently disable your access. Please keep it safe!
-
----
-
-## © Copyright
+## ©️ Copyright
 
 **Copyright © 2026 Adonis. All Rights Reserved.**
 
 1. The source code, the executable file, the user interface, and the background algorithms are the exclusive property of **Adonis**.
-2. **STRICTLY PROHIBITED:** You are not allowed to reverse-engineer, decompile, share, sub-license, or resell this software for profit without written permission. 
-3. Any attempt to bypass the license authentication system is a direct violation of copyright laws.
+2. **STRICTLY PROHIBITED:** You are not allowed to reverse-engineer, decompile, share, or resell this software for profit without written permission. 
 
-If you need tech support, want to report a bug, or want to buy bulk keys for a big project, hit us up at: **adonis.ploae@yahoo.com**.
+If you need tech support, want to report a bug, or just want to buy me a coffee, hit me up at: **adonis.ploae@yahoo.com**.
