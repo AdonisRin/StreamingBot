@@ -49,7 +49,7 @@ Basically, this is a super-advanced but easy-to-use tool to automate your live s
 
 1. **Download** the zip file from the Releases section.
 2. **Extract** the folder somewhere on your PC (like your Desktop).
-3. **Run the App:** Double-click the StreamingBotexe file (it launches instantly, no keys required!).
+3. **Run the App:** Double-click the StreamingBot.exe file (it launches instantly, no keys required!).
 4. **Lock Your Target:** Hover your mouse over the chat box or the video player and press **F8** (for clicking) or **F10** (for typing).
 5. **Set Your Speeds:** Enter the min and max seconds you want the bot to wait between actions. 
 6. **Hit START ENGINE!** 
