@@ -1,4 +1,4 @@
-# StreamingBot for Windows 7/8/10/11
+# StreamingBot for Windows (7/8/10/11)
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
@@ -8,61 +8,64 @@
 ![APP Pro Tools](https://github.com/user-attachments/assets/0eed305c-692f-465f-9626-f1d19fd08b03)
 ![APP AI Vision](https://github.com/user-attachments/assets/07ed2efc-7b24-476f-ad61-aead809309ca)
 
-Hey there! Welcome to **StreamingBot**. 
+**StreamingBot** is a simple Windows desktop tool that does the repetitive clicking and chatting on live streams for you. 
 
-Basically, this is a super-advanced but easy-to-use tool to automate your live streams. Whether you need auto-clicking, chat automation, or AI-generated interactions, this bot is built to act exactly like a real human so your accounts stay safe and shadowban-free. 
-
----
-
-##  The Legal Stuff (Disclaimer)
-
-> **PLEASE READ:** This software is built for **educational purposes, personal stress-testing, and automating your own platforms.** Let's be real: if you use this to spam other people or break the Terms of Service of platforms like Twitch, YouTube, or TikTok, that is entirely on you. The developer takes zero responsibility for any banned accounts or lost data. Use it smartly and at your own risk!
+Whether you want to send likes/taps on TikTok, post scheduled links in chat, or keep multiple live streams active, it acts just like a real person sitting at the keyboard so your accounts stay safe and ban-free on platforms like TikTok, Twitch, YouTube, and Kick.
 
 ---
 
-##  What Makes It Awesome (Key Features)
+## Disclaimer
 
-###  Massive Auto-Clicker (Up to 400 Bots!)
-* **True Multitasking:** Need a lot of engagement? You can run **up to 400 clicking bots** simultaneously without crashing your PC. Perfect for mass tapping, liking, or keeping streams active.
-
-###  Built-in Anti-Ban & Proxy Isolation
-* **Sandbox Browsers:** Every single bot opens in its own isolated browser bubble. If you choose Chrome, Edge, or Brave, it totally separates the cookies and data.
-* **Takes Any Proxy:** Supports private **HTTP, HTTPS, SOCKS4, and SOCKS5** proxies. You just paste your IP and Port, choose the type, and it handles the rest.
-* **Crash-Proof:** If you tell the bot to open Brave but you don't have Brave installed, it won't crash. It just smartly switches to Microsoft Edge so you stay online.
-
-###  Human-like Behavior
-* **Random Delays:** You can set minimum and maximum seconds between clicks or chats. This means the bot never clicks at the exact same millisecond twice, making it look 100% human.
-* **Spintax Chat:** Keep things spicy by writing messages like {Awesome|Great|POG} stream!. The bot will randomly pick one word so it doesn't look like you're copy-pasting the same text over and over.
-* **Timed Loops:** Tell the bot to drop your social links every 10 or 15 minutes automatically.
-
-###  Smart AI Vision
-* Don't want to write messages yourself? You can plug in **OpenAI, Gemini, or Claude**. The bot will "read" the room and generate smart, contextual replies just like a real viewer. 
-
-###  Auto-Pilot & Safety Nets
-* **Panic Button:** If the bot sees scary words on the screen (like "captcha", "verify you're human", or "suspended"), it hits the emergency brakes and stops everything instantly.
-* **Coffee Breaks:** Real people take breaks. You can tell the bot to pause for 2 minutes every half hour just to look natural.
-* **Discord Alerts:** Hook it up to your Discord, and it will text you to let you know when the engines start, stop, or if there's an error.
+> **Please Note:** This software is built for educational use, personal testing, and automating your own channels. You are responsible for how you use it and for following the rules of each streaming platform. The creator is not responsible for any banned accounts or lost data.
 
 ---
 
-##  How to Install & Use
+## What It Does (In Plain English)
 
-1. **Download** the zip file from the Releases section.
-2. **Extract** the folder somewhere on your PC (like your Desktop).
-3. **Run the App:** Double-click the StreamingBot exe file (it launches instantly, no keys required!).
-4. **Lock Your Target:** Hover your mouse over the chat box or the video player and press **F8** (for clicking) or **F10** (for typing).
-5. **Set Your Speeds:** Enter the min and max seconds you want the bot to wait between actions. 
-6. **Hit START ENGINE!** 
+### 1. Fast & Lightweight Auto-Clicker
+* **Doesn't slow down your PC:** It runs directly in Windows without heavy emulators, so your computer stays fast and cool even when running multiple bots.
+* **Mass Tapping & Liking:** Perfect for tapping on TikTok lives, liking streams, or keeping active viewers on screen.
 
-> ** Pro Tip about Proxies:** Please, do yourself a favor and **do not use free proxies from the internet**. They are used by thousands of people at the same time, they are super slow, and they disconnect every 5 minutes. Buy cheap *Private IPv4 Proxies* online for a couple of bucks. They will save you massive headaches.
+### 2. Separate Accounts & Proxy Support
+* **Private Browser Windows:** Opens Chrome, Edge, or Brave in clean, separate windows. Logins, cookies, and cache never mix between accounts.
+* **Easy Proxy Setup:** Just paste your private proxy (IP and Port), and each bot connects from a different location.
+* **No Crashing:** If you select Brave browser but don't have it installed, the app automatically switches to Microsoft Edge so everything keeps working.
+
+### 3. Acts Like a Real Human
+* **Random Delays:** Real humans never click at the exact same speed. You set a min and max time (e.g., 1 to 3 seconds), and the bot picks a random speed for every single click and keystroke.
+* **Rotating Chat Messages:** Write messages with choices like `{Hey|Hello|Yo} {everyone|chat}!`. The bot mixes and matches words randomly so you never look like a copy-paste spammer.
+* **Timed Posts:** Automatically drop your Discord link, Instagram, or promo message once every 10 or 15 minutes.
+
+### 4. Smart AI Chat (Optional)
+* **Understands the Stream:** Connect your OpenAI (ChatGPT), Gemini, or Claude key, and the bot will look at the video on screen and type short, natural viewer comments about what's actually happening.
+
+### 5. Built-in Safety Controls
+* **Auto-Stop on Captchas:** If a "verify you're human", "captcha", or warning screen pops up, the bot spots it and pauses everything immediately.
+* **Coffee Breaks:** Tell the bot to take a 2-minute break every 30 minutes, just like a real person taking a break.
+* **Boss Key (F7):** Press **F7** to instantly hide the app into the bottom-right corner of your screen (system tray).
+* **Discord Alerts:** Sends a quick ping to your Discord channel when tasks start, stop, or finish.
 
 ---
 
-## ©️ Copyright
+## How to Use It in 5 Easy Steps
 
-**Copyright © 2026 Adonis. All Rights Reserved.**
+1. **Download & Unzip:** Download the zip file and extract the folder to your Desktop.
+2. **Open the App:** Double-click `StreamingBot.exe` (no installer or sign-up needed).
+3. **Pick Where to Click/Type:**
+   - Put your mouse over the click area and press **F8**.
+   - Put your mouse over the chat box and press **F10**.
+4. **Set Your Speed:** Choose how many seconds to wait between actions.
+5. **Start:** Click the **START ENGINE** button!
 
-1. The source code, the executable file, the user interface, and the background algorithms are the exclusive property of **Adonis**.
-2. **STRICTLY PROHIBITED:** You are not allowed to reverse-engineer, decompile, share, or resell this software for profit without written permission. 
+---
 
-If you need tech support, want to report a bug, or just want to buy me a coffee, hit me up at: **adonis.ploae@yahoo.com**.
+## A Quick Word on Proxies
+
+> If you want to run multiple accounts at the same time, **do not use free proxies from the internet**. Free proxies are used by thousands of people, disconnect constantly, and get accounts banned fast. Get cheap **Private IPv4 Proxies** online instead—they work reliably and keep your accounts safe.
+
+---
+
+## Contact & Help
+
+Have questions, found an issue, or want to say thanks?  
+Email: **adonis.ploae@yahoo.com**
