@@ -4,9 +4,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 ![Price](https://img.shields.io/badge/Price-100%25%20Free-brightgreen.svg)
 
-![APP Main](https://github.com/user-attachments/assets/f9590c9f-28cf-437c-aaa1-f905dfb59f58)
-![APP Pro Tools](https://github.com/user-attachments/assets/0eed305c-692f-465f-9626-f1d19fd08b03)
-![APP AI Vision](https://github.com/user-attachments/assets/07ed2efc-7b24-476f-ad61-aead809309ca)
 
 **StreamingBot** is a simple Windows desktop tool that does the repetitive clicking and chatting on live streams for you. 
 
@@ -14,13 +11,10 @@ Whether you want to send likes/taps on TikTok, post scheduled links in chat, or 
 
 ---
 
-## Disclaimer
-
-> **Please Note:** This software is built for educational use, personal testing, and automating your own channels. You are responsible for how you use it and for following the rules of each streaming platform. The creator is not responsible for any banned accounts or lost data.
 
 ---
 
-## What It Does (In Plain English)
+## What It Does 
 
 ### 1. Fast & Lightweight Auto-Clicker
 * **Doesn't slow down your PC:** It runs directly in Windows without heavy emulators, so your computer stays fast and cool even when running multiple bots.
@@ -36,7 +30,7 @@ Whether you want to send likes/taps on TikTok, post scheduled links in chat, or 
 * **Rotating Chat Messages:** Write messages with choices like `{Hey|Hello|Yo} {everyone|chat}!`. The bot mixes and matches words randomly so you never look like a copy-paste spammer.
 * **Timed Posts:** Automatically drop your Discord link, Instagram, or promo message once every 10 or 15 minutes.
 
-### 4. Smart AI Chat (Optional)
+### 4. Smart AI Chat (EXPERIMENTAL AND OPTIONAL )
 * **Understands the Stream:** Connect your OpenAI (ChatGPT), Gemini, or Claude key, and the bot will look at the video on screen and type short, natural viewer comments about what's actually happening.
 
 ### 5. Built-in Safety Controls
@@ -59,11 +53,23 @@ Whether you want to send likes/taps on TikTok, post scheduled links in chat, or 
 
 ---
 
+---
+
+## Disclaimer
+
+> **Please Note:** This software is built for educational use, personal testing, and automating your own channels. You are responsible for how you use it and for following the rules of each streaming platform. The creator is not responsible for any banned accounts or lost data.
+
+---
+
 ## A Quick Word on Proxies
 
 > If you want to run multiple accounts at the same time, **do not use free proxies from the internet**. Free proxies are used by thousands of people, disconnect constantly, and get accounts banned fast. Get cheap **Private IPv4 Proxies** online instead—they work reliably and keep your accounts safe.
 
 ---
+
+![APP Main](https://github.com/user-attachments/assets/f9590c9f-28cf-437c-aaa1-f905dfb59f58)
+![APP Pro Tools](https://github.com/user-attachments/assets/0eed305c-692f-465f-9626-f1d19fd08b03)
+![APP AI Vision](https://github.com/user-attachments/assets/07ed2efc-7b24-476f-ad61-aead809309ca)
 
 ## Contact & Help
 
