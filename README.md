@@ -2,7 +2,6 @@
 
 ![Version](https://img.shields.io/badge/Version-1.1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![Price](https://img.shields.io/badge/Price-100%25%20Free-brightgreen.svg)
 
 **StreamingBot** is a simple Windows desktop tool that does the repetitive clicking and chatting on live streams for you. 
 
