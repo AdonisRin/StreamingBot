@@ -2,37 +2,42 @@
 
 ![Version](https://img.shields.io/badge/Version-1.1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Price](https://img.shields.io/badge/Price-100%25%20Free-brightgreen.svg)
 
 **StreamingBot** is a simple Windows desktop tool that does the repetitive clicking and chatting on live streams for you. 
 
-Whether you want to send likes/taps on TikTok, post scheduled links in chat, or keep multiple live streams active, it acts just like a real person sitting at the keyboard so your accounts stay safe and ban-free on platforms like TikTok, Twitch, YouTube, and Kick or Games, Chats, anything.
+Whether you want to send likes/taps on TikTok, post scheduled links in chat, or keep multiple live streams active, it acts just like a real person sitting at the keyboard so your accounts stay safe and ban-free on TikTok, Twitch, YouTube, Kick, desktop games, or web chats.
 
 ---
 
 ## What It Does
 
 ### 1. Fast & Lightweight Auto-Clicker
-* **Doesn't slow down your PC:** It runs directly in Windows without heavy emulators, so your computer stays fast and cool even when running multiple bots.
-* **Mass Tapping & Liking:** Perfect for tapping on TikTok lives, liking streams, or keeping active viewers on screen.
+* **Doesn't slow down your PC:** Runs directly in Windows without heavy emulators, so your computer stays fast and cool even when running multiple bots.
+* **Mass Tapping & Liking:** Perfect for tapping on TikTok lives, spam-liking streams, or keeping active viewers on screen.
+* **Works Anywhere:** Works universally across any browser, PC game, chat box, or desktop app on Windows.
 
-### 2. Separate Accounts & Proxy Support
-* **Private Browser Windows:** Opens Chrome, Edge, or Brave in clean, separate windows. Logins, cookies, and cache never mix between accounts.
+### 2. Separate Accounts, Proxies & VPN Support
+* **Private Browser Windows:** Opens Chrome, Edge, or Brave in clean, separate windows so cookies and logins never mix.
 * **Easy Proxy Setup:** Just paste your private proxy (IP and Port), and each bot connects from a different location.
+* **Built-in VPN Support:** Easily route and rotate connections through your favorite VPN setup right from the app.
 * **No Crashing:** If you select Brave browser but don't have it installed, the app automatically switches to Microsoft Edge so everything keeps working.
 
 ### 3. Acts Like a Real Human
-* **Random Delays:** Real humans never click at the exact same speed. You set a min and max time (e.g., 1 to 3 seconds), and the bot picks a random speed for every single click and keystroke.
+* **Random Delays:** Real humans never click at the exact same speed. You set a min and max time (e.g., 1 to 3 seconds), and the bot picks a random speed for every single action.
 * **Rotating Chat Messages:** Write messages with choices like `{Hey|Hello|Yo} {everyone|chat}!`. The bot mixes and matches words randomly so you never look like a copy-paste spammer.
 * **Timed Posts:** Automatically drop your Discord link, Instagram, or promo message once every 10 or 15 minutes.
+* **Anti-AFK Movement:** Gently moves the cursor or presses keys so you never get disconnected for being idle in games or streams.
 
 ### 4. Smart AI Chat (Experimental & Optional)
 * **Understands the Stream:** Connect your OpenAI (ChatGPT), Gemini, or Claude key, and the bot will look at the video on screen and type short, natural viewer comments about what's actually happening.
 
-### 5. Built-in Safety Controls
+### 5. Pro Controls & Safety
 * **Auto-Stop on Captchas:** If a "verify you're human", "captcha", or warning screen pops up, the bot spots it and pauses everything immediately.
-* **Coffee Breaks:** Tell the bot to take a 2-minute break every 30 minutes, just like a real person taking a break.
+* **Coffee Breaks:** Tell the bot to take a 2-minute break every 30 minutes, just like a real person taking a rest.
+* **Discord Alerts:** Sends a quick ping to your Discord channel via webhook when tasks start, stop, or finish.
 * **Boss Key (F7):** Press **F7** to instantly hide the app into the bottom-right corner of your screen (system tray).
-* **Discord Alerts:** Sends a quick ping to your Discord channel when tasks start, stop, or finish.
+* **Fully Customizable:** Adjust every single timer, sound effect, hotkey (F1–F12), and modern Dark/Light theme to fit your exact setup.
 
 ---
 
