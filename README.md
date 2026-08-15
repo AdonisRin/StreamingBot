@@ -2,7 +2,6 @@
 
 ![Version](https://img.shields.io/badge/Version-1.1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![Price](https://img.shields.io/badge/Price-100%25%20Free-brightgreen.svg)
 
 **StreamingBot** is a simple Windows desktop tool that does the repetitive clicking and chatting on live streams for you. 
 
@@ -67,9 +66,12 @@ Whether you want to send likes/taps on TikTok, post scheduled links in chat, or 
 
 ## Screenshots
 
-![APP Main](https://github.com/user-attachments/assets/f9590c9f-28cf-437c-aaa1-f905dfb59f58)
-![APP Pro Tools](https://github.com/user-attachments/assets/0eed305c-692f-465f-9626-f1d19fd08b03)
-![APP AI Vision](https://github.com/user-attachments/assets/07ed2efc-7b24-476f-ad61-aead809309ca)
+![Main Dashboard](https://github.com/user-attachments/assets/390546e8-e953-44e6-bf69-d929af5a70ea)
+![Pro Tools & Settings](https://github.com/user-attachments/assets/9433e3ec-aebc-4b07-9edd-a9a7c97cd1b9)
+![AI Vision Engine](https://github.com/user-attachments/assets/07ed65db-5fc3-42e8-9daa-aba7e536a91b)
+![Settings & Hotkeys](https://github.com/user-attachments/assets/5c51537c-79af-4866-9938-ac9fc8102019)
+![VPN Engine Dialog](https://github.com/user-attachments/assets/e927d28a-0a42-46c0-87db-b316ce8bf48b)
+![About & Version Info](https://github.com/user-attachments/assets/30abd450-6720-481e-89f3-2fa91e63d7c1)
 
 ---
 
