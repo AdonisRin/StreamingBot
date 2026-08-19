@@ -1,11 +1,13 @@
 # StreamingBot for Windows (7/8/10/11)
 
-![Version](https://img.shields.io/badge/Version-1.1.0-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.1.1-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
 **StreamingBot** is a simple Windows desktop tool that does the repetitive clicking and chatting on live streams for you. 
 
 Whether you want to send likes/taps on TikTok, post scheduled links in chat, or keep multiple live streams active, it acts just like a real person sitting at the keyboard so your accounts stay safe and ban-free on TikTok, Twitch, YouTube, Kick, desktop games, or web chats.
+
+**Alternative Mirror:** If you cannot download directly from Releases, you can download it via [MEGA](https://mega.nz/file/1RlWkSJI#FpcctV3LFliCKo_dEfsD7BUBpGqHa9WoD0v9xFeCb8k).
 
 ---
 
