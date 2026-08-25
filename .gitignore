@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and Local Settings
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output and Exported User Files (Screenshots, Logs, Sessions)
+PANIC_SCREENSHOT_*.png
+Session_*.csv
+*.log
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+
+# IDEs
+.vscode/
+.idea/

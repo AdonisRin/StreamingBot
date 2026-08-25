@@ -1,0 +1,8 @@
+# Windows API bindings for window capture, mouse and keyboard automation
+pywin32>=306
+
+# Image processing and screenshot capture
+Pillow>=10.0.0
+
+# System tray icon support
+pystray>=0.19.5
