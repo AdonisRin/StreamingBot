@@ -7,7 +7,7 @@
 
 Whether you want to send likes/taps on TikTok, post scheduled links in chat, or keep multiple live streams active, it acts just like a real person sitting at the keyboard so your accounts stay safe and ban-free on TikTok, Twitch, YouTube, Kick, desktop games, or web chats.
 
-**Alternative Mirror:** If you cannot download directly from Releases, you can download it via [MEGA](https://mega.nz/file/1RlWkSJI#FpcctV3LFliCKo_dEfsD7BUBpGqHa9WoD0v9xFeCb8k).
+**Alternative Mirror:** If you cannot download directly from Releases, you can download it via [MEGA](https://mega.nz/file/pcVHDbDb#fb1g0lc8ImryT20g-z9Q-lk1y3v65mveH3mD_FKSuYQ).
 
 ---
 
