@@ -1,6 +1,6 @@
 # StreamingBot for Windows (7/8/10/11)
 
-![Version](https://img.shields.io/badge/Version-1.1.1-blue.svg)
+![Version](https://img.shields.io/badge/Version-1.1.2-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 
 **StreamingBot** is a simple Windows desktop tool that does the repetitive clicking and chatting on live streams for you. 
